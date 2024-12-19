@@ -1,5 +1,7 @@
 # Gimp's plugins
 
+Archive files written in Python and C for GIMP plugins
+
 ## Installation
 
 > C:\Users\username\AppData\Roaming\GIMP\2.10\plug-ins
