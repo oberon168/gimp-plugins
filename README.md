@@ -5,6 +5,8 @@ Archive files written in Python and C for GIMP plugins
 ## Installation
 
 > C:\Users\username\AppData\Roaming\GIMP\2.10\plug-ins
+## For version 3
+> %APPDATA%\GIMP\3.2\plug-ins\ob_align3\ob_align3.py
 
 ## Contents
 - ob_align.py
